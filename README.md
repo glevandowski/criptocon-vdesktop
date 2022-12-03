@@ -13,4 +13,4 @@ A aplicação foi desenvolvida utilizando:
 - GUI Java Swing; 
 - Adaptação para utilizar a biblioteca Retrofit 2;
 - Consumo da API CoinMarketCap;
-- Uso de banco de dados MySql.
+- Uso de banco de dados relacional SQL.
